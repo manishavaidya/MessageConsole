@@ -1,0 +1,11 @@
+C:\Manisha\Crowe\MessageConsole\MessageConsole\bin\Debug\netcoreapp2.0\MessageConsole.deps.json
+C:\Manisha\Crowe\MessageConsole\MessageConsole\bin\Debug\netcoreapp2.0\MessageConsole.runtimeconfig.json
+C:\Manisha\Crowe\MessageConsole\MessageConsole\bin\Debug\netcoreapp2.0\MessageConsole.runtimeconfig.dev.json
+C:\Manisha\Crowe\MessageConsole\MessageConsole\bin\Debug\netcoreapp2.0\MessageConsole.dll
+C:\Manisha\Crowe\MessageConsole\MessageConsole\bin\Debug\netcoreapp2.0\MessageConsole.pdb
+C:\Manisha\Crowe\MessageConsole\MessageConsole\obj\Debug\netcoreapp2.0\MessageConsole.csprojResolveAssemblyReference.cache
+C:\Manisha\Crowe\MessageConsole\MessageConsole\obj\Debug\netcoreapp2.0\MessageConsole.csproj.CoreCompileInputs.cache
+C:\Manisha\Crowe\MessageConsole\MessageConsole\obj\Debug\netcoreapp2.0\MessageConsole.AssemblyInfoInputs.cache
+C:\Manisha\Crowe\MessageConsole\MessageConsole\obj\Debug\netcoreapp2.0\MessageConsole.AssemblyInfo.cs
+C:\Manisha\Crowe\MessageConsole\MessageConsole\obj\Debug\netcoreapp2.0\MessageConsole.dll
+C:\Manisha\Crowe\MessageConsole\MessageConsole\obj\Debug\netcoreapp2.0\MessageConsole.pdb
